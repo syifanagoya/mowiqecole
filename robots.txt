@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://mowiqecole.pages.dev/sitemap.xml
